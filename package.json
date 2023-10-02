@@ -1,12 +1,16 @@
 {
-  "name": "hexlet-js",
+  "name": "hexlet",
   "version": "1.0.0",
   "type": "module",
-  "description": "Мой первый проект на Хекслете",
+  "description": "Node.js boilerplate package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andrey Serebrennikov",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
