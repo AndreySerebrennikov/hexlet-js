@@ -1,2 +1,4 @@
+.SILENT:  
+
 lint: 
 	npx eslint .
