@@ -1,3 +1,4 @@
-import _ from 'lodash';
+import _ from "lodash";
 
-console.log(_.last(['one', 'two']));
+const name = "Andrey";
+const age = 37;
