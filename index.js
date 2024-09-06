@@ -1,4 +1,5 @@
-import _ from "lodash";
-
-const name = "Andrey";
-const age = 37;
+const user = {
+  name: 'Andrey',
+  age: 'age',
+};
+console.log(user.name);
